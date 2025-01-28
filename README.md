@@ -5,7 +5,7 @@
    <summary>About me</summary>
 
    * 18 years old
-   * even tho I'm named OnlyHouska here I go by just ***only*** (too lazy to rename everywhere)
+   * even tho I'm named OnlyHouska here I go by just ***_only*** (too lazy to rename everywhere)
    * I focus mainly on web development
  </details>
 
