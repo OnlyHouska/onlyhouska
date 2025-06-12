@@ -28,12 +28,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onlyhouska&repo=space-invaders&theme=dark" />
   </a>
 </div>
-
----
-
-<details>
-  <summary>TODO</summary>
-  
-  - [ ] Finish frontools
-  - [ ] Get the portfolio working
-</details>
